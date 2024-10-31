@@ -1,0 +1,435 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MW Taxonomy\n"
+"POT-Creation-Date: 2016-05-07 13:41+0200\n"
+"PO-Revision-Date: 2016-04-13 14:44+0200\n"
+"Last-Translator: Mats Westholm <mw@webtiger.se>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../includes\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: sv_SE\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: controller\n"
+"X-Poedit-SearchPath-1: model\n"
+"X-Poedit-SearchPath-2: view\n"
+
+#: controller/class-mw-taxonomy-admin.php:68
+#, fuzzy
+msgid "Custom Taxonomy Page"
+msgstr "Sida för anpassad taxonomi"
+
+#: controller/class-mw-taxonomy-admin.php:77
+#: controller/class-mw-taxonomy-admin.php:98
+#, fuzzy
+msgid "Create New Custom Taxonomy"
+msgstr "Skapa ny anpassad taxonomi"
+
+#: controller/class-mw-taxonomy-admin.php:79
+#: controller/class-mw-taxonomy-admin.php:100
+#, fuzzy
+msgid "Save"
+msgstr "Spara"
+
+#: controller/class-mw-taxonomy-admin.php:93
+#: controller/class-mw-taxonomy-admin.php:144
+#, fuzzy
+msgid "Error"
+msgstr "Fel"
+
+#: controller/class-mw-taxonomy-admin.php:110
+#: model/class-mw-taxonomy-widget.php:128
+#, fuzzy
+msgid "Custom Taxonomy"
+msgstr "Anpassad taxonomi"
+
+#: controller/class-mw-taxonomy-admin.php:124
+#: controller/class-mw-taxonomy-admin.php:137
+#, fuzzy
+msgid "Edit Taxonomy"
+msgstr "Ändra taxonomi"
+
+#: controller/class-mw-taxonomy-admin.php:126
+#: controller/class-mw-taxonomy-admin.php:139
+#, fuzzy
+msgid "Update Taxonomy"
+msgstr "Uppdatera taxonomi"
+
+#: controller/class-mw-taxonomy-admin.php:160
+#, fuzzy
+msgid "Delete Taxonomy"
+msgstr "Radera taxonomi"
+
+#: controller/class-mw-taxonomy-admin.php:161
+#, fuzzy
+msgid "You are about to delete this Taxonomy"
+msgstr "Du är på väg att radera denna taxonomi"
+
+#: controller/class-mw-taxonomy-admin.php:170
+#, fuzzy, php-format
+msgid "Taxonomy %s was deleted"
+msgstr "Taxonomi %s raderades"
+
+#: controller/class-mw-taxonomy-admin.php:213
+#, fuzzy
+msgid "Custom Taxonomy Management"
+msgstr "Hantering av anpassad taxonomi"
+
+#: controller/class-mw-taxonomy-admin.php:214
+#, fuzzy
+msgid "Taxonomy"
+msgstr "Taxonomi"
+
+#: controller/class-mw-taxonomy-admin.php:235
+#, fuzzy, php-format
+msgid "Taxonomy %s %s"
+msgstr "Taxonomi %s %s"
+
+#: controller/class-mw-taxonomy-admin.php:238
+#, fuzzy, php-format
+msgid "Taxonomy %s was not %s"
+msgstr "Taxonomi %s blev inte %s"
+
+#: controller/class-mw-taxonomy-user-input.php:47
+#, fuzzy
+msgid "No name is set"
+msgstr "Inget namn är satt"
+
+#: controller/class-mw-taxonomy-user-input.php:55
+#, fuzzy
+msgid "No singular name is set"
+msgstr "Singulärt namn är inte satt"
+
+#: controller/class-mw-taxonomy-user-input.php:64
+#, fuzzy
+msgid "No slug is set"
+msgstr "Inget kortnamn är satt"
+
+#: controller/class-mw-taxonomy-user-input.php:78
+#, fuzzy
+msgid "No post type set"
+msgstr "Posttyp är inte satt"
+
+#: controller/class-mw-taxonomy-user-input.php:89
+#, fuzzy
+msgid "Hierarchical value not set"
+msgstr "Hierarkiskt värde är inte satt"
+
+#: controller/class-mw-taxonomy-user-input.php:187
+#, fuzzy
+msgid "Slug can be no more than 32 characters long"
+msgstr "Kortnamn kan inte vara längre än 32 tecken långt"
+
+#: controller/class-mw-taxonomy-user-input.php:199
+#: controller/class-mw-taxonomy-user-input.php:203
+#, fuzzy
+msgid "Slug can only contain lower characters a -z, 0 - 9 and underscore"
+msgstr "Kortnamn kan endast innehålla gemener a - z, 0 - 9 och understrykningstecken"
+
+#: controller/class-mw-taxonomy-user-input.php:210
+#, fuzzy, php-format
+msgid "Slug \"%s\" is already in use by another taxonomy"
+msgstr "Kortnamnet \"%s\" används redan av en annan taxonomi"
+
+#: controller/class-mw-taxonomy-user-input.php:216
+#, fuzzy, php-format
+msgid "Slug \"%s\" is a reserved term"
+msgstr "Kortnamnet \"%s\" är en reserverad term"
+
+#: model/class-mw-taxonomy-list-table.php:110
+#, fuzzy
+msgid "Name Plural"
+msgstr "Pluralnamn"
+
+#: model/class-mw-taxonomy-list-table.php:111
+#, fuzzy
+msgid "Name Singular"
+msgstr "Singularnamn"
+
+#: model/class-mw-taxonomy-list-table.php:112
+#, fuzzy
+msgid "Post Type"
+msgstr "Posttyp"
+
+#: model/class-mw-taxonomy-list-table.php:113
+#: view/class-mw-taxonomy-view.php:188 view/class-mw-taxonomy-view.php:275
+#, fuzzy
+msgid "Hierarchical"
+msgstr "Hierarkisk"
+
+#: model/class-mw-taxonomy-list-table.php:114
+#: view/class-mw-taxonomy-view.php:104
+#, fuzzy
+msgid "Slug"
+msgstr "Kortnamn"
+
+#: model/class-mw-taxonomy-list-table.php:115
+#, fuzzy
+msgid "Search Engine"
+msgstr "Sökmotor"
+
+#: model/class-mw-taxonomy-register.php:42
+#: model/class-mw-taxonomy-register.php:52
+#, fuzzy
+msgid "All"
+msgstr "Alla"
+
+#: model/class-mw-taxonomy-register.php:43
+#, fuzzy
+msgid "Edit"
+msgstr "Editera"
+
+#: model/class-mw-taxonomy-register.php:44
+#, fuzzy
+msgid "View"
+msgstr "Vy"
+
+#: model/class-mw-taxonomy-register.php:45
+#, fuzzy
+msgid "Update"
+msgstr "Uppdatera"
+
+#: model/class-mw-taxonomy-register.php:46 view/class-mw-taxonomy-view.php:44
+#, fuzzy
+msgid "Add New"
+msgstr "Lägg till ny"
+
+#: model/class-mw-taxonomy-register.php:47
+#, fuzzy, php-format
+msgid "New %s Name"
+msgstr "Ny %s namn"
+
+#: model/class-mw-taxonomy-register.php:48
+#, fuzzy
+msgid "Search"
+msgstr "Sök"
+
+#: model/class-mw-taxonomy-register.php:49
+#, fuzzy
+msgid "Popular"
+msgstr "Populär"
+
+#: model/class-mw-taxonomy-register.php:50
+#, fuzzy
+msgid "list navigation"
+msgstr "listnavigation"
+
+#: model/class-mw-taxonomy-register.php:51
+#, fuzzy
+msgid "list"
+msgstr "lista"
+
+#: model/class-mw-taxonomy-register.php:54
+#: model/class-mw-taxonomy-register.php:55
+#, fuzzy
+msgid "Parent"
+msgstr "Förälder"
+
+#: model/class-mw-taxonomy-register.php:58
+#, fuzzy, php-format
+msgid "Separate %s with commas"
+msgstr "Separera %s med komma"
+
+#: model/class-mw-taxonomy-register.php:59
+#, fuzzy
+msgid "Choose from the most used"
+msgstr "Välj från de mest använda"
+
+#: model/class-mw-taxonomy-register.php:60
+#, fuzzy, php-format
+msgid "No %s found"
+msgstr "Inga %s funna"
+
+#: model/class-mw-taxonomy-widget.php:8
+#, fuzzy
+msgid "A list or dropdown of a selected custom taxonomy."
+msgstr "En lista eller dropwown av en vald anpassad taxonomi"
+
+#: model/class-mw-taxonomy-widget.php:56
+#, fuzzy, php-format
+msgid "Select %s"
+msgstr "Välj %s"
+
+#: model/class-mw-taxonomy-widget.php:153
+#, fuzzy
+msgid "Title:"
+msgstr "Titel:"
+
+#: model/class-mw-taxonomy-widget.php:159
+#, fuzzy
+msgid "Display as dropdown"
+msgstr "Visa som dropdown"
+
+#: model/class-mw-taxonomy-widget.php:162
+#, fuzzy
+msgid "Show post counts"
+msgstr "Visa antal poster"
+
+#: view/class-mw-taxonomy-view.php:9
+#, fuzzy
+msgid "Plugin website"
+msgstr "Tilläggets webbplats"
+
+#: view/class-mw-taxonomy-view.php:12
+#, fuzzy
+msgid "Support forum"
+msgstr "Supportforum"
+
+#: view/class-mw-taxonomy-view.php:26
+#, fuzzy
+msgid "Go to Plugin website for more information about how to use the plugin"
+msgstr "Gå till tilläggets webbplats för mer information om hur man använder tillägget"
+
+#: view/class-mw-taxonomy-view.php:27
+#, fuzzy
+msgid "Please ask questions in the Support forum"
+msgstr "Var vänlig ställ frågor i supportforumet"
+
+#: view/class-mw-taxonomy-view.php:28
+#, fuzzy
+msgid "I will answer them as soon as I can"
+msgstr "Jag svarar så snart som möjligt"
+
+#: view/class-mw-taxonomy-view.php:29
+#, fuzzy
+msgid "Please make a donation if you are happy with this plugin"
+msgstr "Gör gärna en donation om du gillar tillägget"
+
+#: view/class-mw-taxonomy-view.php:50
+#, fuzzy
+msgid "Start page"
+msgstr "Startsida"
+
+#: view/class-mw-taxonomy-view.php:73
+#, fuzzy
+msgid "Please fill in the form"
+msgstr "Var vänlig fyll i formuläret"
+
+#: view/class-mw-taxonomy-view.php:83
+#, fuzzy
+msgid "Name"
+msgstr "Namn"
+
+#: view/class-mw-taxonomy-view.php:84
+#, fuzzy
+msgid "The name usually in plural as it will appear on the site and admin area. Ex Categories, Tags"
+msgstr "Namnet vanligtvis i plural som det ska synas på webbplatsen och i adminområdet. T ex Kategorier, Etiketter"
+
+#: view/class-mw-taxonomy-view.php:93
+#, fuzzy
+msgid "Name singular"
+msgstr "Namn i singularis"
+
+#: view/class-mw-taxonomy-view.php:95
+#, fuzzy
+msgid "The name in singular as it will appear on the site and admin area. Ex Category, Tag"
+msgstr "Namnet i singular som det ska synas på webbplatsen och i adminområdet. T ex Kategori, Etikett"
+
+#: view/class-mw-taxonomy-view.php:110
+#, fuzzy
+msgid "The slug will be used in url"
+msgstr "Kortnamnet används i webbadressen"
+
+#: view/class-mw-taxonomy-view.php:111
+#, fuzzy
+msgid "May only contain lowercase letters a - z, 0 - 9 or the underscore character and not be more than 32 characters long"
+msgstr "Får bara innehålla gemener a -z, 0 - 9 eller understrykningstecken och får enti vara mer än 32 tecken långt"
+
+#: view/class-mw-taxonomy-view.php:112
+#, fuzzy
+msgid "It cannot be changed once it is set"
+msgstr "Den kan ej ändras i efterhand"
+
+#: view/class-mw-taxonomy-view.php:126
+#, fuzzy
+msgid "Select Post Types"
+msgstr "Välj posttyp"
+
+#: view/class-mw-taxonomy-view.php:128
+#, fuzzy
+msgid "Select the post types where this taxonomy will be used."
+msgstr "Välj de posttyper där denna taxonomi kommer att användas."
+
+#: view/class-mw-taxonomy-view.php:132
+#, fuzzy
+msgid "Built-in"
+msgstr "Inbyggda"
+
+#: view/class-mw-taxonomy-view.php:162
+#, fuzzy
+msgid "Custom"
+msgstr "Anpassad"
+
+#: view/class-mw-taxonomy-view.php:190
+#, fuzzy
+msgid "Whether one can be parent to another."
+msgstr "Om en ska vara överordnad en annan."
+
+#: view/class-mw-taxonomy-view.php:191
+#, fuzzy
+msgid "Categories are hierarchical and tags are not."
+msgstr "Kategorier är hierarkiska och etiketter är inte."
+
+#: view/class-mw-taxonomy-view.php:195 view/class-mw-taxonomy-view.php:213
+#: view/class-mw-taxonomy-view.php:220
+#, fuzzy
+msgid "Yes"
+msgstr "Ja"
+
+#: view/class-mw-taxonomy-view.php:197 view/class-mw-taxonomy-view.php:227
+msgid "No"
+msgstr ""
+
+#: view/class-mw-taxonomy-view.php:203
+#, fuzzy
+msgid "Search engine"
+msgstr "Sökmotor"
+
+#: view/class-mw-taxonomy-view.php:205
+#, fuzzy
+msgid "Yes if you want taxonomy url to appear in search engines"
+msgstr "Ja om du vill att taxonomins webbadress ska vara sökbar hos sökmotorer"
+
+#: view/class-mw-taxonomy-view.php:206
+#, fuzzy
+msgid "No if you want to stop search engines from including taxonomy url"
+msgstr "Nej om du vill förhindra sökmotorer från att ta in taxonomins webbadress"
+
+#: view/class-mw-taxonomy-view.php:239
+#, fuzzy
+msgid "You have no Custom Taxonomy yet"
+msgstr "Du har ingen anpassad taxonomi än"
+
+#: view/class-mw-taxonomy-view.php:243
+#, fuzzy
+msgid "Create one now"
+msgstr "Skapa en nu"
+
+#: view/class-mw-taxonomy-view.php:257
+#, fuzzy
+msgid "Taxonomy Name (plural)"
+msgstr "Taxonomins namn (plural)"
+
+#: view/class-mw-taxonomy-view.php:261
+#, fuzzy
+msgid "Taxonomy Name (singular)"
+msgstr "Taxonomins namn (singular)"
+
+#: view/class-mw-taxonomy-view.php:266
+#, fuzzy
+msgid "Description"
+msgstr "Beskrivning"
+
+#: view/class-mw-taxonomy-view.php:271
+#, fuzzy
+msgid "Post type"
+msgstr "Posttyp"
+
+#: view/class-mw-taxonomy-view.php:279
+#, fuzzy
+msgid "Really Delete"
+msgstr "Verkligen radera"
